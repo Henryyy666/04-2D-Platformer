@@ -14,11 +14,11 @@ None
 
 ## Future Development
 
-None
+Tweening, Animation, 2D-Platformer.
 
 ## Extra Credit
 
-None
+Extra Enemies, Juicy features.
 
 ## Created by
 
